@@ -101,7 +101,7 @@
     "cronstrue": "^2.50.0",
     "crypto-js": "^4.2.0",
     "d3-geo": "^3.1.1",
-    "dayjs": "^1.11.10",
+    "dayjs": "^1.11.23",
     "dev-tools": "workspace:*",
     "effect": "4.0.0-rc.112",
     "file-saver": "^2.0.5",
