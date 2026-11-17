@@ -75,7 +75,7 @@
     "@supabase/shared-types": "0.1.98",
     "@supabase/supabase-js": "catalog:",
     "@tanstack/react-devtools": "^0.10.3",
-    "@tanstack/react-hotkeys": "^0.10.0",
+    "@tanstack/react-hotkeys": "^0.25.0",
     "@tanstack/react-query": "~5.104.3",
     "@tanstack/react-query-devtools": "~5.104.3",
     "@tanstack/react-router": "catalog:",
