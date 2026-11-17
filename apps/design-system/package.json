@@ -21,7 +21,7 @@
     "@tanstack/react-table": "catalog:",
     "common": "workspace:*",
     "date-fns": "^2.30.0",
-    "dayjs": "1.11.13",
+    "dayjs": "1.11.23",
     "eslint-config-supabase": "workspace:*",
     "icons": "workspace:*",
     "jotai": "^2.8.0",

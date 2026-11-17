@@ -225,8 +225,8 @@ importers:
         specifier: ^2.30.0
         version: 2.30.0
       dayjs:
-        specifier: 1.11.13
-        version: 1.11.13
+        specifier: 1.11.23
+        version: 1.11.23
       eslint-config-supabase:
         specifier: workspace:*
         version: link:../../packages/eslint-config-supabase
@@ -1247,8 +1247,8 @@ importers:
         specifier: ^3.1.1
         version: 3.1.1
       dayjs:
-        specifier: ^1.11.10
-        version: 1.11.13
+        specifier: ^1.11.23
+        version: 1.11.23
       dev-tools:
         specifier: workspace:*
         version: link:../../packages/dev-tools
@@ -1939,8 +1939,8 @@ importers:
         specifier: ^3.1.1
         version: 3.1.1
       dayjs:
-        specifier: ^1.11.12
-        version: 1.11.13
+        specifier: ^1.11.23
+        version: 1.11.23
       dev-tools:
         specifier: workspace:*
         version: link:../../packages/dev-tools
@@ -2977,8 +2977,8 @@ importers:
         specifier: ^1.8.2
         version: 1.8.2
       dayjs:
-        specifier: ^1.11.13
-        version: 1.11.13
+        specifier: ^1.11.23
+        version: 1.11.23
       github-slugger:
         specifier: ^2.0.0
         version: 2.0.0
@@ -11859,9 +11859,6 @@ packages:
 
   date-fns@4.1.0:
     resolution: {integrity: sha512-Ukq0owbQXxa/U3EGtsdVBkR1w7KOQ5gIBqdH2hkvknzZPYvBxb/aa6E8L7tmjFtkwZBu3UXBbjIgPo/Ez4xaNg==}
-
-  dayjs@1.11.13:
-    resolution: {integrity: sha512-oaMBel6gjolK862uaPQOVTA7q3TZhuSvuMQAAglQDOWYO9A91IrAOUJEyKVlqJlHE0vq5p5UXxzdPfMH/x6xNg==}
 
   dayjs@1.11.23:
     resolution: {integrity: sha512-QDTCU0M0MxR3hQfnlDJfwekQiaanm1ubOD231u73WBckQ/fsamwRLiE2GBz6D3a/xF1NgfiDLJjXBa1hYOYTtQ==}
@@ -29370,8 +29367,6 @@ snapshots:
       '@babel/runtime': 7.26.10
 
   date-fns@4.1.0: {}
-
-  dayjs@1.11.13: {}
 
   dayjs@1.11.23: {}
 
